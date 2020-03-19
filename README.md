@@ -1,4 +1,4 @@
-# sound
+# American Sign Language Detection
 
 A new Flutter project.
 
